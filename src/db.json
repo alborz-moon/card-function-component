@@ -1,0 +1,32 @@
+{
+    "big-magic": [
+        {
+            "id":1,
+            "type-title" : "book-title",
+            "value-title" : "BIG MAGIC",
+            "type-author" : "book-author",
+            "value-author" : "by Elizabeth Gilbert",
+            "star" : [
+                {
+                "star1":"star1"
+                },
+                {
+                    "star2":"star2"
+                },
+                {
+                    "star3":"star3"
+                },
+                {
+                    "star4":"star4"
+                },
+                {
+                    "star5":"star5"
+                }
+            ],
+            "type-text" : "book-sum",
+            "value-text" : "Readers of all ages and walks of life have drawn inspiration and empowerment from Elizabeth Gilbert’s books htmlFor years.",
+            "type-img" : "book-photo",
+            "value-img" : "https://images-na.ssl-images-amazon.com/images/I/81WcnNQ-TBL.jpg"
+        }
+    ] 
+}
